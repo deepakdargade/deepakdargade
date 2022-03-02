@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 I'm a Mumbai-based Entrepreneur, Ruby on Rails monomaniac and Food enthusiast.
 
-You can read articled on my blog(https://www.deepakdargade.com/blog/).
+You can check my [blog](https://www.deepakdargade.com/blog/) or get in [touch with me](https://www.deepakdargade.com/contact/).
 
-Thanks for checking out my blog. Have a great day 🤗
+Have a great day 🤗
