@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋, I am Deepak Dargade.
+#### I am Deepak Dargade.
 
 I'm a Mumbai-based Entrepreneur, Ruby on Rails monomaniac and Food enthusiast.
 
