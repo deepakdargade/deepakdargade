@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 👋, I am Deepak Dargade.
+
+I'm a Mumbai-based Entrepreneur, Ruby on Rails monomaniac and Food enthusiast.
+
+You can read articled on my blog(https://www.deepakdargade.com/blog/).
+
+Thanks for checking out my blog. Have a great day 🤗
